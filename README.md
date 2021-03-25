@@ -58,6 +58,7 @@ depending on what conditions were true.
 N/A
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more time I would spend it mostly on adding more features into the game, as well as making the UI much more interesting
 for the user to interact with. I would add a score system that would increase as the user got correct guesses, and a timer that would
 decrease the total number of points gained depending on how long it takes for the user to get the pattern correct. 
